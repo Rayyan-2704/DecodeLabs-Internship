@@ -100,7 +100,7 @@ bars = plt.bar(model_accuracies.keys(), model_accuracies.values(), color=colors,
 
 plt.ylabel('Accuracy Score')
 plt.title('Comparison of Wine Classification Performance')
-plt.ylim(0.5, 1.0) # Adjusted baseline since accuracies will be realistic
+plt.ylim(0.5, 1.0)
 
 for bar in bars:
     yval = bar.get_height()
