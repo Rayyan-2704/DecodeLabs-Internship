@@ -1,9 +1,9 @@
-# DecodeLabs Internship — Machine Learning Projects
+# DecodeLabs Internship — Artificial Intelligence Projects
 
 **Author:** Rayyan Aamir\
-**Program:** DecodeLabs Machine Learning Internship
+**Program:** DecodeLabs Artificial Intelligence Internship
 
-This repository contains the hands-on projects completed during the DecodeLabs Machine Learning Internship. Each project lives in its own folder with a dedicated `README.md`, source code, and (where applicable) a Jupyter notebook version.
+This repository contains the hands-on projects completed during the DecodeLabs Artificial Intelligence Internship. Each project lives in its own folder with a dedicated `README.md`, source code, and (where applicable) a Jupyter notebook version.
 
 ## Projects
 
@@ -57,4 +57,4 @@ See each project's own `README.md` for full details — dataset info, usage exam
 
 ## Note
 
-This repository documents projects completed as part of the **DecodeLabs Machine Learning Internship**, covering rule-based systems, supervised machine learning, recommendation systems, and computer vision/OCR.
+This repository documents projects completed as part of the **DecodeLabs Artificial Intelligence Internship**, covering rule-based systems, supervised Artificial Intelligence, recommendation systems, and computer vision/OCR.
