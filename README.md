@@ -57,4 +57,4 @@ See each project's own `README.md` for full details — dataset info, usage exam
 
 ## Note
 
-This repository documents projects completed as part of the **DecodeLabs Artificial Intelligence Internship**, covering rule-based systems, supervised Artificial Intelligence, recommendation systems, and computer vision/OCR.
+This repository documents projects completed as part of the **DecodeLabs Artificial Intelligence Internship**, covering rule-based systems, supervised machine learning, recommendation systems, and computer vision/OCR.
